@@ -1,9 +1,9 @@
-# Proffy
+# Feedget Mobile
 
 <br>
 
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Feedget Mobile">
+  <img src="https://user-images.githubusercontent.com/25290972/167264256-62235734-0cfb-4cd3-b1e8-0c47f6e94a25.png" alt="Feedget Mobile">
 </div>
 
 <br>
