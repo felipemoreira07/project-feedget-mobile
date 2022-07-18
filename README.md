@@ -10,11 +10,7 @@
 
 ## :bookmark_tabs: Sobre
 
-Projeto desenvolvido na Next Level Week Together
-
-Intituição - Rocketseat
-
-Professor - Rodrigo Gonçalves
+Projeto desenvolvido na Next Level Week Together a fim de disponibilizar uma aplicação que pode ser utilizada em diferentes ambientes digitais, com o objetivo de melhorar a experiência do usuário na plataforma, por meio da elaboração e do envio de relatórios sobre possíveis erros, novas ideias e outros pensamentos. Esta ferramenta conecta os proprietários, desenvolvedores e usuários, promovendo vantagens a todos os participantes.
 
 <br>
 
